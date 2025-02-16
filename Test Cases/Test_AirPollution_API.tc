@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ADL QA Automation test</description>
+   <name>Test_AirPollution_API</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa1e3622-3af2-457a-8028-ae10cacf2abc</testCaseGuid>
+</TestCaseEntity>

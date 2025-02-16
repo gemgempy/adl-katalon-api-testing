@@ -1,0 +1,7 @@
+ID,TestCase,StatusCode,Result,Temperature,Humidity,AQI,Timestamp
+1,Get 5-day Weather Forecast (Day 1),200,PASSED,21.98,94,-,2025-02-16 12:00:00
+2,Get 5-day Weather Forecast (Day 2),200,PASSED,21.24,96,-,2025-02-17 12:00:00
+3,Get 5-day Weather Forecast (Day 3),200,PASSED,21.37,96,-,2025-02-18 12:00:00
+4,Get 5-day Weather Forecast (Day 4),200,PASSED,21.24,95,-,2025-02-19 12:00:00
+5,Get 5-day Weather Forecast (Day 5),200,PASSED,21.57,95,-,2025-02-20 12:00:00
+6,Get Current Air Pollution,200,PASSED,-,-,4,2025-02-16 18:49:36

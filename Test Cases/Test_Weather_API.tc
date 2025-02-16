@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ADL Test Weather in Kuningan - Gempar Bambang Godata</description>
+   <name>Test_Weather_API</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31f9f302-16ae-472c-8436-35140bf973d1</testCaseGuid>
+</TestCaseEntity>
